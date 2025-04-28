@@ -16,6 +16,7 @@ A simple Bash script that mimics basic `grep` functionality.
 
 ```bash
 ./mygrep.sh [options] search_string filename
+```
 
 ## Options
 
